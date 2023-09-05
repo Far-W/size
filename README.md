@@ -9,6 +9,7 @@
 ```
 这是一个大的代码框
 可以记录更多代码
+print("1")
 ```
 
 https://img.shields.io/badge/This_is-A_LOGO-blue
